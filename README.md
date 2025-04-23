@@ -8,5 +8,5 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 
 
 # Equipe: <nome-da-equipe>
-1. <Nome de fulano>
+1. <Gustavo Prates Caetano>
 2. <Nome de fulana>
