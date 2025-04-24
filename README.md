@@ -7,6 +7,10 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/9873181b-511f-42d9-8cf5-5d5966515634" />
 
 
-# Equipe: <nome-da-equipe>
-1. <Nome de fulano>
-2. <Nome de fulana>
+# Equipe: <Back-ardigans>
+1. Daniel Cotrim Carvalho
+2. Daniel Silva Caroba
+3. Gustavo Prates Caetano
+4. Matheus Costa Rodrigues
+5. Vinícius Martins Lebrão
+  
